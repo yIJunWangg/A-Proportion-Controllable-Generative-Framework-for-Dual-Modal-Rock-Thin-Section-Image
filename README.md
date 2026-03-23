@@ -47,12 +47,6 @@ python fast_glcm.py -i ./input_images -o ./texture_maps --resize -W 512 -H 512
 
 # Pretrained models
 
-The checkpoints for the pre-trained models are available [here](https://pan.baidu.com/s/114q4k6bR1eS1fOdcxDFR2w?pwd=1234) as zip files. Copy them into the checkpoints folder (the default is `./checkpoints`, create it if it doesn't yet exist) and unzip them. The folder structure should be
-
-```
-checkpoints            
-└── example
-```
 
 You can generate images with a pre-trained checkpoint via `test.py`. 
 
@@ -83,17 +77,12 @@ python test.py --class_num 2  --name example --class_dir ./datasets/example/clas
 --ckpt_iter best --dataset_mode custom --dataroot ./datasets/example --batch_size 1 --gpu_ids 0
 ```
 
-# Result
-
-Train FID：
-
-<img src="./figs/plot_fid.png" alt="plot_fid" style="zoom: 100%;" />
 
 # Contact
 
 If you have any questions, please create an issue on this repository or contact us at 
 
-yujiegao1031@163.com
+zhengdongyu@cdut.edu.cn
 
 # Acknowledgement
 
