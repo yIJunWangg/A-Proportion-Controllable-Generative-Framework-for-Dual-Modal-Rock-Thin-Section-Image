@@ -1,6 +1,8 @@
-# PetroSynthGAN：Semantic Image Synthesis of Rock Slice Based on Conditional Generative Adversarial Networks
+# A-Proportion-Controllable-Generative-Framework-for-Dual-Modal-Rock-Thin-Section-Image
 
-Official PyTorch implementation of the paper "Semantic Image Synthesis of Anime Characters Based on Conditional Generative Adversarial Networks".  The code allows the users to reproduce and extend the results reported in the study.  Please cite the paper when reporting, reproducing or extending the results.
+
+Official PyTorch implementation of the paper "A-Proportion-Controllable-Generative-Framework-for-Dual-Modal-Rock-Thin-Section-Image
+".  The code allows the users to reproduce and extend the results reported in the study.  Please cite the paper when reporting, reproducing or extending the results.
 
 # Abstract
 
